@@ -1,0 +1,4 @@
+def interest(p, r, t):
+    i = (p*r*t)/100
+    return i
+print(interest(p=1000, r=10,2 ))
